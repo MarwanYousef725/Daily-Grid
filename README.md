@@ -14,16 +14,14 @@ A sleek and efficient task management application built with Flutter that organi
 
 | Empty State | Adding a Tab | Updating Tab Name | Main Grid View |
 | :---: | :---: | :---: | :---: |
-| ![Empty State](New folder\images\image.png) | ![Add Tab](New folder\images\image1.png) | ![Update Tab](New folder\images\image3.png) | ![Main Grid](New folder\images\image4.png) |
-*(Note: Please replace these placeholders with your actual image paths from the project)*
+| ![Empty State](https://ibb.co/WWcQZVxr) | ![Add Tab](https://ibb.co/xtCpbrYR) | ![Update Tab](https://ibb.co/k2SH7fLw) | ![Main Grid](https://ibb.co/6Qnj39S) |
 
 ## 🛠️ Tech Stack
 
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Language:** [Dart](https://dart.dev/)
-- **State Management:** Provider / BLoC (Edit this based on your actual implementation)
-- **Local Storage:** Shared Preferences / SQFlite (Edit this based on your actual implementation)
-
+- **State Management:** Provider
+- **Local Storage:** Shared Preferences 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
