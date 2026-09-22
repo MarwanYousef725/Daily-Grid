@@ -48,8 +48,11 @@ Based on what is implemented in `lib/homescreen.dart` and `lib/splash_screen.dar
 
 ### Demo Video
 
-<!-- DEMO VIDEO: Replace this placeholder with the final demo GIF/video -->
-> Add the application demo video here.
+<p align="center">
+  <a href="https://youtube.com/shorts/r-KVPK_XSeU?si=A2dK0IKTyzUEDbUq">
+    <img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210211_GridDaily.png?raw=true" width="220" alt="SmartPharmacy splash — tap to watch demo">
+  </a>
+</p>
 
 ## Tech Stack
 
