@@ -44,8 +44,6 @@ Based on what is implemented in `lib/homescreen.dart` and `lib/splash_screen.dar
 ### Tab Management
 <img src="assets/screenshots/05-update-tab-dialog.png" width="260" alt="Update Tab Name dialog" /> <img src="assets/screenshots/06-add-tab-dialog.png" width="260" alt="Add Tab dialog" />
 
-> Note: the splash screen's on-image branding reads "GridDaily", while the in-app `AppBar` title (and this document) use "DailyGrid" — both come directly from the provided source/screenshots and are called out here rather than silently reconciled.
-
 ## Demo
 
 ### Demo Video
