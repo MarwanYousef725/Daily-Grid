@@ -30,19 +30,19 @@ Based on what is implemented in `lib/homescreen.dart` and `lib/splash_screen.dar
 ## Application Preview
 
 ### Splash Screen
-<img src="assets/screenshots/01-splash.jpeg" width="260" alt="Splash screen with GridDaily branding" />
+<img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210211_GridDaily.png?raw=true" width="260" alt="Splash screen with GridDaily branding" />
 
 ### Home — Empty State
-<img src="assets/screenshots/02-home-empty.png" width="260" alt="Home screen with no cards yet" />
+<img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210247_GridDaily.png?raw=true" width="260" alt="Home screen with no cards yet" />
 
 ### Adding Tasks
-<img src="assets/screenshots/03-add-tasks-dialog.png" width="260" alt="Add Tasks dialog asking for card count and start date" />
+<img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210255_GridDaily.png?raw=true" width="260" alt="Add Tasks dialog asking for card count and start date" />
 
 ### Home — Populated Grid
-<img src="assets/screenshots/04-home-grid-populated.png" width="260" alt="Grid of numbered, dated cards" />
+<img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210303_GridDaily.png?raw=true" width="260" alt="Grid of numbered, dated cards" />
 
 ### Tab Management
-<img src="assets/screenshots/05-update-tab-dialog.png" width="260" alt="Update Tab Name dialog" /> <img src="assets/screenshots/06-add-tab-dialog.png" width="260" alt="Add Tab dialog" />
+<img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210309_GridDaily.png?raw=true" width="260" alt="Update Tab Name dialog" /> <img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210312_GridDaily.png?raw=true" width="260" alt="Add Tab dialog" />
 
 ## Demo
 
