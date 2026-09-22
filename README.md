@@ -50,7 +50,7 @@ Based on what is implemented in `lib/homescreen.dart` and `lib/splash_screen.dar
 
 <p align="center">
   <a href="https://youtube.com/shorts/r-KVPK_XSeU?si=A2dK0IKTyzUEDbUq">
-    <img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210211_GridDaily.png?raw=true" width="220" alt="SmartPharmacy splash — tap to watch demo">
+    <img src="https://github.com/MarwanYousef725/Daily-Grid/blob/main/assets/Screenshot_20260922-210211_GridDaily.png?raw=true" width="220" alt="GridDaily splash — tap to watch demo">
   </a>
 </p>
 
